@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+    <link rel="stylesheet" href="./styles/main.css">
+  </head>
+  <body>
+    <header>
+        <h1>TITULO</h1>
+    </header>
+    <main>
+      <section class="about">
+        <h2>Subtitulo</h2>
+        <p>
+          Lorem ipsum, dolor sit amet consectetur adipisicing elit. Natus
+          aperiam, voluptate quisquam laboriosam dignissimos modi quasi! Libero
+          beatae minima sit quo expedita illum incidunt, quam dicta magni
+          exercitationem, unde eveniet.
+        </p>
+        <div class="imgBetween">
+        <figure>
+          <img src="./images/1.jpg" />
+        </figure>
+        <figure>
+          <img src="./images/2.jpg" />
+        </figure>
+      </div>
+      </section>
+      <section class="contact">
+        <h2>Subtitulo</h2>
+        <p>
+          Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequatur
+          suscipit, cum quisquam repudiandae cupiditate aspernatur ut sunt
+          facere recusandae quos commodi porro beatae repellendus quia, quam
+          libero, atque ratione dolorum?
+        </p>
+        <div class="imgBetween">
+        <figure>
+            <img src="./images/4.jpg" />
+          </figure>
+          <figure>
+            <img src="./images/5.jpg" />
+          </figure>
+        </div>
+      </section>
+    </main>
+    <footer>
+        <h3>Creado por Mirian</h3>
+    </footer>
+  </body>
+</html>
